@@ -1,3 +1,3 @@
-This is a test repository for Software Carpentry.
+This is a test repository for Software Carpentry. Yay! :)
 
-I want this to show up on github.
+And this should be showing up on github... if I did it right! :)
